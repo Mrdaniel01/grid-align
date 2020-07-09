@@ -1,0 +1,86 @@
+.container{
+    width: 300px;
+    height: 300px;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    
+    background-color: rgb(37, 24, 24);
+}
+.item{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(126, 87, 87);
+}
+.caja1{
+    width:100%;
+    border: 1px solid blue;
+    color: white;
+    display:grid;
+    justify-items: start;
+    align-items: top;
+}
+.caja2{
+    width:100%;
+    border: 1px solid blue;
+    color: white;
+    display:grid;
+    justify-items: start;
+    align-items: center;
+}
+.caja3{
+    width:100%;
+    border: 1px solid blue;
+    color: white;
+    display:grid;
+    justify-items: start;
+    align-items: end;
+}
+.caja4{
+    width:100%;
+    border: 1px solid blue;
+    color: white;
+    display:grid;
+    justify-items: center;
+    align-items: start;
+}
+.caja5{
+    width:100%;
+    border: 1px solid blue;
+    color: white;
+    display:grid;
+    justify-items: center;
+    align-items: center;
+}
+.caja6{
+    width:100%;
+    border: 1px solid blue;
+    color: white;
+    display:grid;
+    justify-items: center;
+    align-items: end;
+}
+.caja7{
+    width:100%;
+    border: 1px solid blue;
+    color: white;
+    display:grid;
+    justify-items: end;
+    align-items: top;
+}
+.caja8{
+    width:100%;
+    border: 1px solid blue;
+    color: white;
+    display:grid;
+    justify-items: end;
+    align-items: center;
+}
+.caja9{
+    width:100%;
+    border: 1px solid blue;
+    color: white;
+    display:grid;
+    justify-items: end;
+    align-items: end;
+}
