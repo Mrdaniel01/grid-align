@@ -14,7 +14,7 @@
 }
 .caja1{
     width:100%;
-    border: 1px solid blue;
+    border: 1px solid white;
     color: white;
     display:grid;
     justify-items: start;
@@ -22,7 +22,7 @@
 }
 .caja2{
     width:100%;
-    border: 1px solid blue;
+    border: 1px solid white;
     color: white;
     display:grid;
     justify-items: start;
@@ -30,7 +30,7 @@
 }
 .caja3{
     width:100%;
-    border: 1px solid blue;
+    border: 1px solid white;
     color: white;
     display:grid;
     justify-items: start;
@@ -38,7 +38,7 @@
 }
 .caja4{
     width:100%;
-    border: 1px solid blue;
+    border: 1px solid white;
     color: white;
     display:grid;
     justify-items: center;
@@ -46,7 +46,7 @@
 }
 .caja5{
     width:100%;
-    border: 1px solid blue;
+    border: 1px solid white;
     color: white;
     display:grid;
     justify-items: center;
@@ -54,7 +54,7 @@
 }
 .caja6{
     width:100%;
-    border: 1px solid blue;
+    border: 1px solid white;
     color: white;
     display:grid;
     justify-items: center;
@@ -62,7 +62,7 @@
 }
 .caja7{
     width:100%;
-    border: 1px solid blue;
+    border: 1px solid white;
     color: white;
     display:grid;
     justify-items: end;
@@ -70,7 +70,7 @@
 }
 .caja8{
     width:100%;
-    border: 1px solid blue;
+    border: 1px solid white;
     color: white;
     display:grid;
     justify-items: end;
@@ -78,7 +78,7 @@
 }
 .caja9{
     width:100%;
-    border: 1px solid blue;
+    border: 1px solid white;
     color: white;
     display:grid;
     justify-items: end;
